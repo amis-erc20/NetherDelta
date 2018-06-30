@@ -1,5 +1,7 @@
 # NetherDelta
-A cleaner, freshened up take on EtherDelta &amp; ForkDelta
+https://netherdelta.roshan.io
+
+A cleaner, freshened up and enhanced take on EtherDelta &amp; ForkDelta
 
   Note: The ability to create/import private keys has been taken out from the UI. The lack of mnemonic seeds or a wizard to confirm a backup was made is too suboptimal to include in good faith. Until a better method is implemented, this exchange will strictly utilize MetaMask & Ledger wallets.
 
