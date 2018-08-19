@@ -1,5 +1,5 @@
 # NetherDelta
-https://netherdelta.roshan.io
+https://amis-erc20.roshan.io/netherdelta
 
 A cleaner, freshened up and enhanced take on EtherDelta &amp; ForkDelta
 
@@ -7,4 +7,4 @@ A cleaner, freshened up and enhanced take on EtherDelta &amp; ForkDelta
 
 Although the UI is different, this exchange still uses the same smart contracts deployed by EtherDelta and ForkDelta's back-end.
 
-If you have any feedback, color scheme requests, etc, hop over to the Gitter channel: https://gitter.im/ROSHAN-IO/NetherDelta
+If you have any feedback, color scheme requests, etc, hop over to the Gitter channel: https://gitter.im/amis-delta-dex/Lobby
